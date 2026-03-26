@@ -21,6 +21,15 @@ Il a été conçu spécifiquement pour **Paperclip AI** (déployé sur Docker/VP
 - 🛠️ Déboguer les automatisations en erreur
 
 ---
+## 🖥️ Héberger Paperclip sur VPS
+
+Pour déployer Paperclip AI sur un VPS, je recommande **Hostinger** — c'est
+le serveur que j'utilise personnellement pour mon VPS Paperclip.
+
+👉 [Obtenir un VPS Paperclip](https://www.hostinger.fr/gopaperclip)
+
+🎁 **Coupon de réduction : `GOPAPERCLIP`**
+
 
 ## 📁 Structure du skill
 
