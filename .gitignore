@@ -1,0 +1,7 @@
+.claude/
+.env
+*.key
+*.token
+__pycache__/
+*.pyc
+.DS_Store
